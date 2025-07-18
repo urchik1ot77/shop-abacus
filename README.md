@@ -75,4 +75,6 @@ Prioritize security when accessing darknet platforms. Always use verified **Abac
 <a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/assets/guide.webp" alt="Abacus Shop Login" style="max-width: 100%;"></a>
 <a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/assets/report.webp" alt="Abacus Shop Register" style="max-width: 100%;"></a>
 
-Update:  07/14/2025 03-54 Fixed dead external links in changelog
+
+
+Update: url is now available and working
