@@ -77,4 +77,6 @@ Prioritize security when accessing darknet platforms. Always use verified **Abac
 
 
 
-Update: url is now available and working
+
+
+Update: url is now clickable and functioning
