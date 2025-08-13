@@ -83,4 +83,6 @@ Prioritize security when accessing darknet platforms. Always use verified **Abac
 
 
 
-Update:  Monday 04 August 2025
+
+
+Update:  Wednesday 13 August 2025 TOR Link updates
