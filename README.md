@@ -93,4 +93,6 @@ Prioritize security when accessing darknet platforms. Always use verified **Abac
 
 
 
-Update:  18 September onion URL corrections
+
+
+Update:  Wednesday 01 October 2025 onion link corrected
